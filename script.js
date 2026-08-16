@@ -45,7 +45,7 @@ var MEMBERS = [
   { slug:"manoranjan-dhal", name:"Manoranjan Dhal", phone:"+918895577223", wa:"918895577223", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"parshuram-naik", name:"Parshuram Naik", phone:"", wa:"", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"prabin-nayak", name:"Prabin Nayak", phone:"+919337805990", wa:"919337805990", email:"", role:"", edu:"", company:"", location:"" },
-  { slug:"prasad-kumar-naik", name:"Prasad Kumar Naik", phone:"+919438314594", wa:"919438314594", email:"prasadkumarnaik12@gmail.com", role:"Unemployed", edu:"Diploma in Plastics Mould Technology", company:"Unemployed", location:"" },
+  { slug:"prasad-kumar-naik", name:"Prasad Kumar Naik", phone:"+919438314594", wa:"919438314594", email:"prasadkumarnaik12@gmail.com", role:"Unemployed", edu:"Diploma in Plastics Mould Technology", company:"Unemployed", location:"Narsinghpur" },
   { slug:"purna-chandra-behera", name:"Purna Chandra Behera", phone:"+918018496722", wa:"918018496722", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"rajesh-rosan-sahoo", name:"Rajesh Rosan Sahoo", phone:"+917008820269", wa:"917008820269", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"rajkishore-sahoo", name:"Rajkishore Sahoo", phone:"+919777356808", wa:"919777356808", email:"", role:"", edu:"", company:"", location:"" },
