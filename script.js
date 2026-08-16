@@ -18,7 +18,7 @@ var MEMBERS = [
   { slug:"abinash-sahoo", name:"Abinash Sahoo", phone:"+917205350226", wa:"917205350226", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"alok-kumar-sahoo", name:"Alok Kumar Sahoo", phone:"+918637211237", wa:"918637211237", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"amiya-kumar-nath", name:"Amiya Kumar Nath", phone:"+918908642902", wa:"918908642902", email:"", role:"", edu:"", company:"", location:"" },
-  { slug:"amiya-kumar-pattnaik", name:"Amiya Kumar Pattnaik", phone:"+919337378845", wa:"919337378845", email:"ppattnaik602@gmail.com", role:"Robotics Lab Trainer", edu:"Graduation in Commerce", company:"-", location:"Narsinghpur" },
+  { slug:"amiya-kumar-pattnaik", name:"Amiya Kumar Pattnaik", phone:"+919337378845", wa:"919337378845", email:"ppattnaik602@gmail.com", role:"Robotics Lab Trainer", edu:"Bachelor of Commerce+BCA", company:"Proprieter-Pattnaik Traders", location:"Narsinghpur" },
   { slug:"anup-kumar-mohapatra", name:"Anup Kumar Mohapatra", phone:"+917077956333", wa:"917077956333", email:"anupmohapatra12@gmail.com", role:"Civil Engineer", edu:"M.Tech in Civil Engineering ", company:"", location:"Bhubaneswar" },
   { slug:"bibhuti-bhusan-samantray", name:"Bibhuti Bhusan Samantray", phone:"+918144480916", wa:"918144480916", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"bichitrananda-behera", name:"Bichitrananda Behera", phone:"+918117896865", wa:"918117896865", email:"", role:"", edu:"", company:"", location:"" },
