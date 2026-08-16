@@ -64,7 +64,7 @@ var MEMBERS = [
   { slug:"sidhartha-sankar-pattanaik", name:"Sidhartha Sankar Pattanaik", phone:"+919178225544", wa:"919178225544", email:"", role:"", edu:"", company:"", location:"Narsinghpur" },
   { slug:"siromani-sibananda", name:"Siromani Sibananda", phone:"+918984031759", wa:"918984031759", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"somanath-behera", name:"Somanath Behera", phone:"+919556861144", wa:"919556861144", email:"", role:"", edu:"", company:"", location:"" },
-  { slug:"soumendra-behera", name:"Soumendra Behera", phone:"+918249894867", wa:"918249894867", email:"", role:"Propriter- Kitchen Solutions", edu:"+2 Arts", company:"Propriter-Kitchen Solutions", location:"Angul, Odisha" },
+  { slug:"soumendra-behera", name:"Soumendra Behera", phone:"+918249894867", wa:"918249894867", email:"soumendrabehera456@gmail.com", role:"Propriter- Kitchen Solutions", edu:"+2 Arts", company:"Propriter-Kitchen Solutions", location:"Angul, Odisha" },
   { slug:"soumya-prakash-pattanaik", name:"Soumya Prakash Pattanaik", phone:"+919691027187", wa:"919691027187", email:"soumyaaprakashpatnaik@gmail.com", role:"AGM", edu:"Diploma in Mechanical Engg.", company:"Gallantt Ispat Ltd", location:"UP,India" },
   { slug:"sridhar-behera", name:"Sridhar Behera", phone:"", wa:"", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"subhranshu-behera", name:"Subhranshu Behera", phone:"", wa:"", email:"", role:"", edu:"", company:"", location:"" },
