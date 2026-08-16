@@ -52,7 +52,7 @@ var MEMBERS = [
   { slug:"ramani-kanta-behera", name:"Ramani Kanta Behera", phone:"+918327787054", wa:"918327787054", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"ramaraman-rana", name:"Ramaraman Rana", phone:"+917894366307", wa:"917894366307", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"sadashib-behera", name:"Sadashib Behera", phone:"+919337346835", wa:"919337346835", email:"", role:"", edu:"", company:"", location:"" },
-  { slug:"samar-kumar-sahoo", name:"Samar Kumar Sahoo", phone:"+916370817828", wa:"916370817828", email:"sahoosamar90@gmail.com", role:"Accounts Manager", edu:"M.Com + CA Inter (in progress)", company:"Xecutiv Finance & Business Solutions LLC-FZ", location:"Dubai, UAE" },
+  { slug:"samar-kumar-sahoo", name:"Samar Kumar Sahoo", phone:"+916370817828", wa:"916370817828", email:"sahoosamar90@gmail.com", role:"Accounts Manager", edu:"M.Com + CA Inter (in progress)", company:"Xecutiv Finance & Business Solutions LLC-FZ", location:"Narsinghpur,Work From Home" },
   { slug:"sanjeet-panda", name:"Sanjeet Panda", phone:"+919778776320", wa:"919778776320", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"santanu-behera", name:"Santanu Behera", phone:"+916371171828", wa:"916371171828", email:"", role:"", edu:"", company:"", location:"" },
   { slug:"santosh-kumar-sahoo", name:"Santosh Kumar Sahoo", phone:"+918457056998", wa:"918457056998", email:"", role:"", edu:"", company:"", location:"" },
